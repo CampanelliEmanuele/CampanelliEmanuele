@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emanuele</h1>
-<h3 align="center">A guy who likes to learn and study.</h3>
+<h1 align="center">Hi, I'm Emanuele</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=campanelliemanuele&label=Profile%20views&color=0e75b6&style=flat" alt="campanelliemanuele" /> </p>
 
