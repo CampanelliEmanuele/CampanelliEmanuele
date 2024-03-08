@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=campanelliemanuele&label=Profile%20views&color=0e75b6&style=flat" alt="campanelliemanuele" /> </p>
 
-- 🔭 I’m currently working on [Videogame-shop](https://github.com/CampanelliEmanuele/videogame-shop)
-
 - 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CampanelliEmanuele](https://github.com/CampanelliEmanuele)
