@@ -2,6 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=campanelliemanuele&label=Profile%20views&color=0e75b6&style=flat" alt="campanelliemanuele" /> </p>
 
+- 🌱 I'm currently learning React and trying C# by developing a 2D game.
+
 - 👨‍💻 All of my projects are available at [https://github.com/CampanelliEmanuele](https://github.com/CampanelliEmanuele)
 
 - 📫 How to reach me **emanuele.campanelli.work@gmail.com**
